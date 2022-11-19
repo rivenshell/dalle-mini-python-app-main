@@ -2,7 +2,7 @@ import requests
 import base64
 import streamlit as st
 
-URL = "https://horrible-mole-67.loca.lt"
+URL = "https://rm-juan-nose-tony.trycloudflare.com"
 headers = {'Bypass-Tunnel-Reminder': "go",
            'mode': 'no-cors'}
 
